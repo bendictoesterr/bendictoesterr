@@ -8,8 +8,8 @@ Heyy, eu sou Ester Bendicto.
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bendictoesterr&show_icons=true&theme=radical&include_allcommits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendictoesterr&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=bendictoesterr&show_icons=true&theme=radical&include_allcommits=true&count_private=true"/>
+   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendictoesterr&layout=compact&langs_count=14&theme=radical"/>
 </div>
 
 <br/>
