@@ -11,7 +11,6 @@ Estou estudando FrontEnd.
 
 🎓 UFRN - Ciência e Tecnologia.
 <br/>
-![Snake animation](https://github.com/bendictoesterr/bendictoesterr/blob/output/github-contribution-grid-snake.svg)
 <br/>
 <div>
   <p align="center">
@@ -28,3 +27,5 @@ Estou estudando FrontEnd.
   <a href="https://www.linkedin.com/in/ester-bendicto-3a6ab7213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    </p>
 </div>
+
+![Snake animation](https://github.com/bendictoesterr/bendictoesterr/blob/output/github-contribution-grid-snake.svg)
