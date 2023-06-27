@@ -1,16 +1,21 @@
-### Hi there 👋
+Heyy, eu sou Ester Bendicto.
 
-<!--
-**bendictoesterr/bendictoesterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖼️ Atualmente trabalho como Designer.
 
-Here are some ideas to get you started:
+📓 Estou estudando FrontEnd.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 UFRN - Ciência e Tecnologia.
+
+<div>
+  <a href="https://beacons.ai/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bendictoesterr&show_icons=true&theme=radical&include_allcommits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendictoesterr&layout=compact&langs_count=16&theme=radical"/>
+</div>
+
+<br/>
+  
+<div> 
+  <a href="https://instagram.com/bendicto_esterr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:esterbendicto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ester-bendicto-3a6ab7213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
