@@ -28,4 +28,4 @@ Estou estudando FrontEnd.
    </p>
 </div>
 
-![Snake animation](https://github.com/bendictoesterr/bendictoesterr/blob/output/github-contribution-grid-snake.svg)
+
