@@ -14,8 +14,8 @@ Estou estudando FrontEnd.
 <br/>
 <div>
   <p align="center">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=bendictoesterr&show_icons=true&theme=radical&include_allcommits=true&count_private=true"/>
-   <img height="180em" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendictoesterr&layout=compact&langs_count=14&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bendictoesterr&show_icons=true&theme=radical"/>
+   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendictoesterr&show_icons=true&theme=radical"/>
   </p>
 </div
 <br/>
