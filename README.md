@@ -9,7 +9,7 @@ Estou estudando FrontEnd.
 
 <img width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" /> <img width="31" src="https://logospng.org/download/css-3/logo-css-3-2048.png" /> <img width="29" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-🎓 UFRN - Ciência e Tecnologia.
+🎓 UFF - Sistemas da Computação.
 <br/>
 <br/>
 <div>
