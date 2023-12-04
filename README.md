@@ -17,8 +17,9 @@ Mas produzo alguns projetos pessoais com tecnologias FrontEnd..
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bendictoesterr&show_icons=true&theme=radical"/>
    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendictoesterr&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendictoesterr&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
   </p>
-</div
+</div>
 <br/>
 <br/>
 <div> 
