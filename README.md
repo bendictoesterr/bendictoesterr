@@ -7,7 +7,7 @@ Atualmente atuo como Designer Gráfico e Social Media.
           
 Mas produzo alguns projetos pessoais com tecnologias FrontEnd..
 
-<img width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" /> <img width="31" src="https://logospng.org/download/css-3/logo-css-3-2048.png" /> <img width="29" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" /> <img width="30" src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png"/> <img width="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--RpUfSAFP--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8otweo5ef6kwc26rmxe5.png" /> <img width="30" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" /> 
+<img width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" /> <img width="31" src="https://logospng.org/download/css-3/logo-css-3-2048.png" /> <img width="29" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 
 
 🎓 UFRN - Ciência e Tecnologia.
