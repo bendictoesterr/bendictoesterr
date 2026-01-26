@@ -8,6 +8,8 @@
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bendictoesterr&show_icons=true&theme=radical"/>
    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendictoesterr&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendictoesterr&layout=compact&hide=css,html,ejs,lua,batchfile&theme=radical&custom_title=Languages&card_width=450">
+</p>
   </p>
 </div>
 <br/>
