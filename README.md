@@ -20,6 +20,6 @@
    </p>
 </div>
 
-![Snake animation](![Snake animation](https://raw.githubusercontent.com)
+![Snake animation](https://raw.githubusercontent.com)
 
 
