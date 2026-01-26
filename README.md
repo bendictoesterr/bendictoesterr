@@ -20,6 +20,6 @@
    </p>
 </div>
 
-![snake animation](bendictoesterr)
+![Snake animation](https://github.com/bendictoesterr/bendictoesterr/blob/output/github-contribuition-grid-snake.svg)
 
 
