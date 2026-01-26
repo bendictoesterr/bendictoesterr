@@ -20,6 +20,5 @@
    </p>
 </div>
 
-![Snake animation](https://github.com/bendictoesterr/bendictoesterr/output/github-contribuition-grid-cobrinha.svg)
-
+![Snake animation](https://raw.githubusercontent.com/bendictoesterr/bendictoesterr/output/github-contribution-grid-snake.svg)
 
